@@ -31,7 +31,7 @@ examTime.forEach((block) => {
 
 function disablePage() {
     const contents = document.getElementById("contents");
-    contents.innerHTML = `<div style="text-align: center"><h1>Assesement in progress.</h1><br><h2>The page will be enabled once the assessment is over.</h2><br><button onclick="location.reload();">Refresh</button></div>`
+    contents.innerHTML = `<div style="text-align: center"><h1>Assessment in progress.</h1><br><h2>The page will be enabled once the assessment is over.</h2><br><button onclick="location.reload();">Refresh</button></div>`
     const botnav = document.getElementById("btm");
     botnav.innerHTML = `Good luck on your exam`;
     const topnav = document.getElementById("top");
