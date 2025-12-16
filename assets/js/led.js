@@ -1,8 +1,8 @@
 const messages = [
-    `Welcome to PILOT Learning website for Differential Equations (Fall 2025).`,
-    `If you find any questions, please contact us via <a href='/FA25/contacts.html'>Contacts</a> tab.`,
-    `Often check out the <a href='https://jhu-ode-pilot.github.io/FA25/#announcements'>announcements</a> for the newest updates about PILOT.`,
-    "There are a lot of useful resources located at the <a href='/FA25/resources.html'>Resources</a> tab."
+    `Welcome to PILOT Learning website for Differential Equations (Spring 2026).`,
+    `If you find any questions, please contact us via <a href='/SP26/contacts.html'>Contacts</a> tab.`,
+    `Often check out the <a href='https://jhu-ode-pilot.github.io/SP26/#announcements'>announcements</a> for the newest updates about PILOT.`,
+    "There are a lot of useful resources located at the <a href='/SP26/resources.html'>Resources</a> tab."
 ];
 
 const ledMessage = document.querySelector('.led-message');

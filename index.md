@@ -5,16 +5,16 @@ title: "Home"
 
 <div style="text-align: center; font-size: 110%;">
   <b>Welcome to PILOT Learning for <i>Differential Equations</i></b><br>
-  <b>Fall 2025</b><br>
+  <b>Spring 2026</b><br>
   <i>This page contains PILOT review sets, useful resources, and information.</i>
 </div>
 
 ## 🏫 Session Information
 
-- Term: Fall 2025
-- Dates: Between September 1st and December 5th (inclusive). 
-    - The session on September 1st is optional in observance of the Labors Day. Please refer to your assigned PILOT leader for details.
-    - There will be no sessions during the Fall break (October 16th - October 17th) and the Fall recess (November 24th - November 28th).
+- Term: Spring 2026
+- Dates: Between January 19th and April 24th (inclusive). 
+    - The session on January 19th is optional in observance of the MLK Day. Please refer to your assigned PILOT leader for details.
+    - There will be no sessions during the Spring break (March 23rd - March 27th).
 - Please refer to your leader for their email, location, time, and other information.
 
 ## ℹ️ PILOT Information
@@ -38,7 +38,7 @@ title: "Home"
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">This webpage will be disabled during the period in which an exam is given, that is:<ul><li>September 16th, 8am-9am</li><li>October 7th, 8am-9am</li><li>October 28th, 8am-9am</li><li>November 18th, 8am-9am</li><li>December 15th, 9am-12pm</li></ul>
+      <td style="text-align: left">This webpage will be disabled during the period in which an exam is given, that is:<ul><li>TBA.</li></ul>
       Please arrange your review in advance.</td>
     </tr>
   </tbody>
@@ -46,10 +46,5 @@ title: "Home"
 
 ## 📢 Announcements
 
-- **12/6/2025.** [Final Exam review information](https://jhu-ode-pilot.github.io/FA25/psets.html#final) is now up to date.
-- **11/10/2025.** [Quiz 4 review information](https://jhu-ode-pilot.github.io/FA25/psets.html#quiz4) is now up to date.
-- **10/20/2025.** [Quiz 3 review information](https://jhu-ode-pilot.github.io/FA25/psets.html#quiz3) is now up to date.
-- **10/3/2025.** [Quiz 2 review information](https://jhu-ode-pilot.github.io/FA25/psets.html#quiz2) is now up to date.
-- **9/8/2025.** [Quiz 1 review information](https://jhu-ode-pilot.github.io/FA25/psets.html#quiz1) is now up to date.
-- **8/26/2025.** Welcome to PILOT learning for Differential Equations.
+- **1/19/2026.** Welcome to PILOT learning for Differential Equations.
 

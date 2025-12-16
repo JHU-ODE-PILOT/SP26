@@ -12,12 +12,13 @@ pageCate: "PSets"
     <input type="password" id="passwordInput" placeholder="Enter password"> <br><br>
     <button onclick="fetchPasswords()">Get Passwords</button>
     <br><br>
-    If you happen to be an educator, feel free to <a href="/FA25/contacts.html">contact</a> us to unlock all these documents.
+    If you happen to be an educator, feel free to <a href="/SP26/contacts.html">contact</a> us to unlock all these documents.
 </div>
 
 
 <script>
     async function fetchPasswords() {
+        return;
         const password = document.getElementById('passwordInput').value;
         
         // Check if password is empty
@@ -92,7 +93,7 @@ pageCate: "PSets"
             let storedCount = 0;
             for (const pKey in ps) {
                 if (fileMap[pKey]) {
-                    const storageKey = `pwd-/FA25/psets/${fileMap[pKey]}`;
+                    const storageKey = `pwd-/FA26/psets/${fileMap[pKey]}`;
                     localStorage.setItem(storageKey, ps[pKey]);
                     console.log(`Stored ${storageKey}: ${ps[pKey]}`);
                     storedCount++;
