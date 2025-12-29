@@ -100,7 +100,7 @@ function startDrawing(e) {
     ctx_draw.globalCompositeOperation = 'destination-out';
   } else {
     ctx_draw.globalCompositeOperation = 'source-over';
-    ctx_draw.strokeStyle = "#505b99ff";
+    ctx_draw.strokeStyle = "#5e69a6";
   }
   
   ctx_draw.lineCap = 'round';
