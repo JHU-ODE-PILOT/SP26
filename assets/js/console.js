@@ -6,6 +6,7 @@ const banner = document.getElementById("banner");
 const box = document.getElementById("cmd-box");
 
 cBtn.addEventListener('click', toggleConsole);
+cBtn.addEventListener("dblclick", toggleConsoleTwice);
 
 // let cmdOpen = false;
 
@@ -17,48 +18,34 @@ function toggleConsole() {
   applyConsole();
 }
 
+function toggleConsoleTwice() {
+  state = (state + 2) % 3;
+  applyConsole();
+}
+
 function applyConsole() {
   cBtn.innerHTML = labels[state];
-  if (state === 1) {
-    enableDrawing();
-  } else {
+  if (state === 0) {
+    clear();
     disableDrawing();
   }
+  if (state === 1) {
+    enableDrawing();
+    setDrawMode();
+  }
   if (state === 2) {
-    clear();
+    enableDrawing();
+    setEraseMode();
   }
 }
 
 document.addEventListener("DOMContentLoaded", applyConsole);
 
-// box.addEventListener("keyup", handleCmd)
-
-// function handleCmd(event) {
-//     if (event.key === "Enter") {
-//         parseCmd(box.value.trim());
-//         box.value = "";
-//     }
-// }
-
-// function parseCmd(text) {
-//     text = text.trim().toLowerCase();
-//     if (text === "draw") {
-//         toggleDraw();
-//         return;
-//     }
-//     if (text === "clear") {
-//         clear();
-//         return;
-//     }
-//     alert("Unrecognized command");
-// } 
-
-
 // draw
 
-// const drawBtn = document.getElementById('toggleDrawBtn');
 const canvas_draw = document.getElementById('drawCanvas');
 let drawing = false;
+let isErasing = false;
 let ctx_draw = canvas_draw.getContext('2d');
 
 function resizeCanvas() {
@@ -89,8 +76,15 @@ function startDrawing(e) {
   const p = getPointerPos(e);
   ctx_draw.beginPath();
   ctx_draw.moveTo(p.x, p.y);
-  ctx_draw.lineWidth = 3;
-  ctx_draw.strokeStyle = 'blue';
+  ctx_draw.lineWidth = isErasing ? 20 : 3;
+  
+  if (isErasing) {
+    ctx_draw.globalCompositeOperation = 'destination-out';
+  } else {
+    ctx_draw.globalCompositeOperation = 'source-over';
+    ctx_draw.strokeStyle = 'blue';
+  }
+  
   ctx_draw.lineCap = 'round';
   e.preventDefault();
 }
@@ -118,6 +112,18 @@ function enableDrawing() {
 function disableDrawing() {
   canvas_draw.style.display = 'none';
   canvas_draw.style.pointerEvents = 'none';
+}
+
+// Set draw mode
+function setDrawMode() {
+  isErasing = false;
+  canvas_draw.style.cursor = 'crosshair';
+}
+
+// Set erase mode
+function setEraseMode() {
+  isErasing = true;
+  canvas_draw.style.cursor = 'grab';
 }
 
 let active = false;
