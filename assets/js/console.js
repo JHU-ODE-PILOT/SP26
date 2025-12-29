@@ -7,41 +7,51 @@ const box = document.getElementById("cmd-box");
 
 cBtn.addEventListener('click', toggleConsole);
 
-let cmdOpen = false;
+// let cmdOpen = false;
+
+let state = 0;
+const labels = ["⇖", "✐", "⌫"]
 
 function toggleConsole() {
-    if (cmdOpen) {
-        consol.style.display = "none";
-        banner.style.display = "block";
-    } else {
-        consol.style.display = "block";
-        banner.style.display = "none";
-        box.focus();
-    }
-    cmdOpen = !cmdOpen;
+  state = (state + 1) % 3;
+  applyConsole();
 }
 
-box.addEventListener("keyup", handleCmd)
-
-function handleCmd(event) {
-    if (event.key === "Enter") {
-        parseCmd(box.value.trim());
-        box.value = "";
-    }
+function applyConsole() {
+  cBtn.innerHTML = labels[state];
+  if (state === 1) {
+    enableDrawing();
+  } else {
+    disableDrawing();
+  }
+  if (state === 2) {
+    clear();
+  }
 }
 
-function parseCmd(text) {
-    text = text.trim().toLowerCase();
-    if (text === "draw") {
-        toggleDraw();
-        return;
-    }
-    if (text === "clear") {
-        clear();
-        return;
-    }
-    alert("Unrecognized command");
-} 
+document.addEventListener("DOMContentLoaded", applyConsole);
+
+// box.addEventListener("keyup", handleCmd)
+
+// function handleCmd(event) {
+//     if (event.key === "Enter") {
+//         parseCmd(box.value.trim());
+//         box.value = "";
+//     }
+// }
+
+// function parseCmd(text) {
+//     text = text.trim().toLowerCase();
+//     if (text === "draw") {
+//         toggleDraw();
+//         return;
+//     }
+//     if (text === "clear") {
+//         clear();
+//         return;
+//     }
+//     alert("Unrecognized command");
+// } 
 
 
 // draw
