@@ -5,8 +5,26 @@ const banner = document.getElementById("banner");
 
 const box = document.getElementById("cmd-box");
 
-cBtn.addEventListener('click', toggleConsole);
-cBtn.addEventListener("dblclick", toggleConsoleTwice);
+// cBtn.addEventListener('click', toggleConsole);
+// cBtn.addEventListener("dblclick", toggleConsoleTwice);
+
+let clickTimer = null;
+const CLICK_DELAY = 500; // milliseconds
+
+cBtn.addEventListener('click', function(e) {
+  if (clickTimer === null) {
+    clickTimer = setTimeout(() => {
+      toggleConsole();
+      clickTimer = null;
+    }, CLICK_DELAY);
+  }
+});
+
+cBtn.addEventListener('dblclick', function(e) {
+  clearTimeout(clickTimer);
+  clickTimer = null;
+  toggleConsoleTwice();
+});
 
 // let cmdOpen = false;
 
@@ -82,7 +100,7 @@ function startDrawing(e) {
     ctx_draw.globalCompositeOperation = 'destination-out';
   } else {
     ctx_draw.globalCompositeOperation = 'source-over';
-    ctx_draw.strokeStyle = 'blue';
+    ctx_draw.strokeStyle = "#505b99ff";
   }
   
   ctx_draw.lineCap = 'round';
