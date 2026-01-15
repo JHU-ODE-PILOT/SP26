@@ -23,13 +23,14 @@ title: "Resources"
 
 ## 📄 Important Documents
 
-- [Conceptual Problem Set](/resources/Conceptual-Problem-Set.pdf):
+- [Conceptual Problem Set](/resources/Conceptual-set.pdf):
     - A specially designed extra problem set is updated for students who are interested in mathematical proof and fun questions underlying ODEs. The extra problem set contains approximately 2 problems for each week. This set is completely voluntary, and its contents are mostly outside the scope of this class (conventionally).
-- [Theorem Booklet](/resources/ODEs-Thms.pdf):
+    - If you would like to discuss any of the problems, please contact the HPL.
+- [Theorem Booklet](/resources/Theorem-booklet.pdf):
     - This document includes various definitions, theorems, and formulas about ODE that was initially compiled during Fall 2022 and adjusted up until Fall 2024.
     - For the Spring 2026 semester, Chapter 7 will not be covered.
-- [Laplace Table](/resources/Laplace-Table.pdf):
+- [Laplace Table](/resources/Laplace-table.pdf):
     - This document includes a table of Laplace transformation that most instructors would provide during their assessments. This document can be a helpful tool before your instructor has provided you with their version.
     - This document will not be used for the Spring 2026 semester.
-- [Activity Slide](/resources/Activities.pdf):
+- [Activity Slide](/resources/Activities-slides.pdf):
     - Here is a set of slides deck that we could be playing with when we need some engagements. Feel free to play with some of it in advance.
