@@ -11,7 +11,7 @@ title: "Problem Sets"
 
 | ⚠️ Important!|
 |:------------|
-|*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them.*<br>*Please always refresh for the newest version. If you still notice any, please [contact us](/SP2625/contacts.html).*|
+|*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them.*<br>*Please always refresh for the newest version. If you still notice any, please [contact us](/SP26/contacts.html).*|
 
 ## 📅 Weekly Problem Sets
 
@@ -21,17 +21,12 @@ Here are the problem sets for each week of PILOT learning.
   - The solution is passcode protected to encourage attendance to PILOT sessions, ask your PILOT leader while you are attending the session for more information.
   - During the weeks when a quiz is given, the solution manual will not have a passcode for equality among all PILOT sessions that week.
 
-<!-- | ⤴️ Attention on Different Contents |
-|:------------|
-|For this semesters, since different sections are covering different materials, there will be problems designed specifically for one section but not the other.<br> In general, the questions labeled with **S** are the questions designated for Series Solutions for Second Order ODEs (Section 01-03) and the questions labeled with **L** are the questions designated for Laplace Transformation (Section 04-06).| -->
-
 - Additional resources would be tagged or linked in the resources' column.
   - Also check out the [Resources](/SP26/resources.html#important-documents) for additional notes and practices.
 
 | Week Number | Dates | Problem Set | Additional Resources |
 |:-----------:|:-----:|:-----------:|:---------------------|
-| 1 | January 19th - January 23rd | PSet 1 (*Solutions*) |  |
-
+| 1 | January 20th - January 23rd | [PSet 1](/SP26/psets/PS1.pdf) ([*Solutions*](/SP26/psets/PS1-Soln.pdf)) | [Brief Review on Series](/SP26/psets/PS1-Extra.pdf) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 

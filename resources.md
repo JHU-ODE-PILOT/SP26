@@ -28,9 +28,9 @@ title: "Resources"
     - If you would like to discuss any of the problems, please contact the HPL.
 - [Theorem Booklet](/resources/Theorem-booklet.pdf):
     - This document includes various definitions, theorems, and formulas about ODE that was initially compiled during Fall 2022 and adjusted up until Fall 2024.
-    - For the Spring 2026 semester, Chapter 7 will not be covered.
+    - _For the Spring 2026 semester, Chapter 7 will not be covered._
 - [Laplace Table](/resources/Laplace-table.pdf):
     - This document includes a table of Laplace transformation that most instructors would provide during their assessments. This document can be a helpful tool before your instructor has provided you with their version.
-    - This document will not be used for the Spring 2026 semester.
+    - _This document will not be used for the Spring 2026 semester._
 - [Activity Slide](/resources/Activities-slides.pdf):
     - Here is a set of slides deck that we could be playing with when we need some engagements. Feel free to play with some of it in advance.
