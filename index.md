@@ -38,7 +38,12 @@ title: "Home"
   </thead>
   <tbody>
     <tr>
-      <td style="text-align: left">This webpage will be disabled during the period in which an exam is given, that is:<ul><li>TBA.</li></ul>
+      <td style="text-align: left">This webpage will be disabled during the period in which an exam is given, that is:
+      <ul>
+        <li>Midterm 1: March 4, 12pm - 2:20pm.</li>
+        <li>Midterm 2: April 15, 12pm - 2:20pm.</li>
+        <li>Final Exam: May 8, 9am - 5pm.</li>
+      </ul>
       Please arrange your review in advance.</td>
     </tr>
   </tbody>

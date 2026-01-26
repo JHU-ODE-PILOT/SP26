@@ -40,4 +40,6 @@ For the in-class assessments, we will prepare corresponding review resources.
 
 | Assessment Number | Assessment Date | Practices | Review Session |
 |:-----------------:|:---------------:|:---------:|:--------------:|
-| <span id="final">Final Exam</span> |  |  |  |
+| <span id="midterm-1">Midterm 1</span> | March 4 |  |  |
+| <span id="midterm-2">Midterm 2</span> | April 15 |  |  |
+| <span id="final">Final Exam</span> | May 8 |  |  |
