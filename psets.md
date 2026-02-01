@@ -28,6 +28,7 @@ Here are the problem sets for each week of PILOT learning.
 |:-----------:|:-----:|:-----------:|:---------------------|
 | 1 | January 20th - January 23rd | [PSet 1](/SP26/psets/PS1.pdf) ([*Solutions*](/SP26/psets/PS1-Soln.pdf)) | [Brief Review on Series](/SP26/psets/PS1-Extra.pdf) |
 | 2 | January 27th - January 30th | [PSet 2](/SP26/psets/PS2.pdf) ([*Solutions*](/SP26/psets/PS2-Soln.pdf)) | [Differential Forms](/SP26/psets/PS2-Extra.pdf) |
+| 3 | February 3rd - February 6th | [PSet 3](/SP26/psets/PS3.pdf) ([*Solutions*](/SP26/psets/PS3-Soln.pdf)) | [A Small "Dilemma"](/SP26/psets/PS3-Extra.pdf) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 
