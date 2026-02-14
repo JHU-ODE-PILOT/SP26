@@ -30,6 +30,7 @@ Here are the problem sets for each week of PILOT learning.
 | 2 | January 27th - January 30th | [PSet 2](/SP26/psets/PS2.pdf) ([*Solutions*](/SP26/psets/PS2-Soln.pdf)) | [Differential Forms](/SP26/psets/PS2-Extra.pdf) |
 | 3 | February 3rd - February 6th | [PSet 3](/SP26/psets/PS3.pdf) ([*Solutions*](/SP26/psets/PS3-Soln.pdf)) | [A Small "Dilemma"](/SP26/psets/PS3-Extra.pdf) |
 | 4 | February 10th - February 13th | [PSet 4](/SP26/psets/PS4.pdf) ([*Solutions*](/SP26/psets/PS4-Soln.pdf)) | [Lipchitz Continuity](/SP26/psets/PS4-Extra.pdf) |
+| 5 | February 17th - February 20th | [PSet 5](/SP26/psets/PS5.pdf) ([*Solutions*](/SP26/psets/PS5-Soln.pdf)) | [Canonical Decomposition](/SP26/psets/PS5-Extra.pdf) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 
