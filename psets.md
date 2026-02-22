@@ -26,12 +26,12 @@ Here are the problem sets for each week of PILOT learning.
 
 | Week Number | Dates | Problem Set | Additional Resources |
 |:-----------:|:-----:|:-----------:|:---------------------|
-| 1 | January 20th - January 23rd | [PSet 1](/SP26/psets/PS1.pdf) ([*Solutions*](/SP26/psets/PS1-Soln.pdf)) | [Brief Review on Series](/SP26/psets/PS1-Extra.pdf) |
-| 2 | January 27th - January 30th | [PSet 2](/SP26/psets/PS2.pdf) ([*Solutions*](/SP26/psets/PS2-Soln.pdf)) | [Differential Forms](/SP26/psets/PS2-Extra.pdf) |
-| 3 | February 3rd - February 6th | [PSet 3](/SP26/psets/PS3.pdf) ([*Solutions*](/SP26/psets/PS3-Soln.pdf)) | [A Small "Dilemma"](/SP26/psets/PS3-Extra.pdf) |
-| 4 | February 10th - February 13th | [PSet 4](/SP26/psets/PS4.pdf) ([*Solutions*](/SP26/psets/PS4-Soln.pdf)) | [Lipchitz Continuity](/SP26/psets/PS4-Extra.pdf) |
-| 5 | February 17th - February 20th | [PSet 5](/SP26/psets/PS5.pdf) ([*Solutions*](/SP26/psets/PS5-Soln.pdf)) | [Canonical Decomposition](/SP26/psets/PS5-Extra.pdf) |
-| 6 | February 24th - February 27th | [PSet 6](/SP26/psets/PS6.pdf) ([*Solutions*](/SP26/psets/PS6-Soln.pdf)) | [Introduction to $$L^2([0,2\pi])$$ Space](/SP26/psets/PS6-Extra.pdf) <br> [Midterm 1 Resources](/SP26/psets.html#midterm-1) |
+| 1 | January 20th - January 23rd | [PSet 1](/psets/PS1.pdf) ([*Solutions*](/psets/PS1-Soln.pdf)) | [Brief Review on Series](/psets/PS1-Extra.pdf) |
+| 2 | January 27th - January 30th | [PSet 2](/psets/PS2.pdf) ([*Solutions*](/psets/PS2-Soln.pdf)) | [Differential Forms](/psets/PS2-Extra.pdf) |
+| 3 | February 3rd - February 6th | [PSet 3](/psets/PS3.pdf) ([*Solutions*](/psets/PS3-Soln.pdf)) | [A Small "Dilemma"](/psets/PS3-Extra.pdf) |
+| 4 | February 10th - February 13th | [PSet 4](/psets/PS4.pdf) ([*Solutions*](/psets/PS4-Soln.pdf)) | [Lipchitz Continuity](/psets/PS4-Extra.pdf) |
+| 5 | February 17th - February 20th | [PSet 5](/psets/PS5.pdf) ([*Solutions*](/psets/PS5-Soln.pdf)) | [Canonical Decomposition](/psets/PS5-Extra.pdf) |
+| 6 | February 24th - February 27th | [PSet 6](/psets/PS6.pdf) ([*Solutions*](/psets/PS6-Soln.pdf)) | [Introduction to $$L^2([0,2\pi])$$ Space](/psets/PS6-Extra.pdf) <br> [Midterm 1 Resources](/psets.html#midterm-1) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 
@@ -44,6 +44,6 @@ For the in-class assessments, we will prepare corresponding review resources.
 
 | Assessment Number | Assessment Date | Practices | Review Session |
 |:-----------------:|:---------------:|:---------:|:--------------:|
-| <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1](/SP26/psets/MT-1.pdf) ([*Solutions*](/SP26/psets/MT-1-Soln.pdf)) <br> [Review Slides](/psets/Midterm-1-Slides.pdf) |  |
+| <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1](/psets/MT-1.pdf) ([*Solutions*](/psets/MT-1-Soln.pdf)) <br> [Review Slides](/psets/Midterm-1-Slides.pdf) |  |
 | <span id="midterm-2">Midterm 2</span> | April 15 |  |  |
 | <span id="final">Final Exam</span> | May 8 |  |  |
