@@ -44,6 +44,6 @@ For the in-class assessments, we will prepare corresponding review resources.
 
 | Assessment Number | Assessment Date | Practices | Review Session |
 |:-----------------:|:---------------:|:---------:|:--------------:|
-| <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1](/psets/MT-1.pdf) ([*Solutions*](/psets/MT-1-Soln.pdf)) <br> [Review Slides](/psets/Midterm-1-Slides.pdf) |  |
+| <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1](/psets/MT-1.pdf) ([*Solutions*]()) <br> [Review Slides](/psets/Midterm-1-Slides.pdf) |  |
 | <span id="midterm-2">Midterm 2</span> | April 15 |  |  |
 | <span id="final">Final Exam</span> | May 8 |  |  |
