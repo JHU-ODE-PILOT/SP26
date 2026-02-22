@@ -31,7 +31,7 @@ Here are the problem sets for each week of PILOT learning.
 | 3 | February 3rd - February 6th | [PSet 3](/psets/PS3.pdf) ([*Solutions*](/psets/PS3-Soln.pdf)) | [A Small "Dilemma"](/psets/PS3-Extra.pdf) |
 | 4 | February 10th - February 13th | [PSet 4](/psets/PS4.pdf) ([*Solutions*](/psets/PS4-Soln.pdf)) | [Lipchitz Continuity](/psets/PS4-Extra.pdf) |
 | 5 | February 17th - February 20th | [PSet 5](/psets/PS5.pdf) ([*Solutions*](/psets/PS5-Soln.pdf)) | [Canonical Decomposition](/psets/PS5-Extra.pdf) |
-| 6 | February 24th - February 27th | [PSet 6](/psets/PS6.pdf) ([*Solutions*](/psets/PS6-Soln.pdf)) | [Introduction to $$L^2([0,2\pi])$$ Space](/psets/PS6-Extra.pdf) <br> [Midterm 1 Resources](/psets.html#midterm-1) |
+| 6 | February 24th - February 27th | [PSet 6](/psets/PS6.pdf) ([*Solutions*](/psets/PS6-Soln.pdf)) | [Introduction to $$L^2([0,2\pi])$$ Space](/psets/PS6-Extra.pdf) <br> [Midterm 1 Resources](/SP26/psets.html#midterm-1) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 
