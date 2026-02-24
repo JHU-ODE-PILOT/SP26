@@ -51,6 +51,6 @@ title: "Home"
 
 ## 📢 Announcements
 
-- **2/22/2025.** [Midterm 1 review information](https://jhu-ode-pilot.github.io/SP26/psets.html#midterm-1) will be released soon.
+- **2/24/2025.** [Midterm 1 review information](https://jhu-ode-pilot.github.io/SP26/psets.html#midterm-1) are up to date.
 - **1/19/2026.** Welcome to PILOT learning for Differential Equations.
 
