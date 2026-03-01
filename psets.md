@@ -45,6 +45,6 @@ For the in-class assessments, we will prepare corresponding review resources.
 
 | Assessment Number | Assessment Date | Practices | Review Session |
 |:-----------------:|:---------------:|:---------:|:--------------:|
-| <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1](/psets/MT-1.pdf) (<a onclick="alert(`The solution will be released later.`)"><i>Solutions</i></a>) <br> [Review Slides](/psets/Midterm-1-Slides.pdf) | March 1 @ 12pm <br> <a onclick="alert(`<img src='/SP26/assets/map/latrobe.png' style='max-width: 85%'><br>Latrobe 120 is located at the star location (F3).`)"><u>Latrobe 120</u></a> |
+| <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1](/psets/MT-1.pdf) ([*Solution*](/psets/MT-1-Soln.pdf))"><i>Solutions</i></a>) <br> [Review Slides](/psets/Midterm-1-Slides.pdf) | March 1 @ 12pm <br> <a onclick="alert(`<img src='/SP26/assets/map/latrobe.png' style='max-width: 85%'><br>Latrobe 120 is located at the star location (F3).`)"><u>Latrobe 120</u></a> |
 | <span id="midterm-2">Midterm 2</span> | April 15 |  |  |
 | <span id="final">Final Exam</span> | May 8 |  |  |
