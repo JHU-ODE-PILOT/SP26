@@ -11,7 +11,7 @@ title: "Problem Sets"
 
 | ⚠️ Important!|
 |:------------|
-|*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them.*<br>*Please always refresh for the newest version. If you still notice any, please [contact us](/SP26/contacts.html).*|
+|*The problem sets and solutions might contain error(s): We are trying our best to fix any as we catch them.*<br>*Please always refresh for the newest version. If you still notice any, please [contact us]({{ site.baseurl }}/contacts.html).*|
 
 ## 📅 Weekly Problem Sets
 
@@ -22,17 +22,18 @@ Here are the problem sets for each week of PILOT learning.
   - During the weeks when a quiz is given, the solution manual will not have a passcode for equality among all PILOT sessions that week.
 
 - Additional resources would be tagged or linked in the resources' column.
-  - Also check out the [Resources](/SP26/resources.html#important-documents) for additional notes and practices.
+  - Also check out the [Resources]({{ site.baseurl }}/resources.html#important-documents) for additional notes and practices.
 
 | Week Number | Dates | Problem Set | Additional Resources |
 |:-----------:|:-----:|:-----------:|:---------------------|
-| 1 | January 20th - January 23rd | [PSet 1](/psets/PS1.pdf) ([*Solutions*](/psets/PS1-Soln.pdf)) | [Brief Review on Series](/psets/PS1-Extra.pdf) |
-| 2 | January 27th - January 30th | [PSet 2](/psets/PS2.pdf) ([*Solutions*](/psets/PS2-Soln.pdf)) | [Differential Forms](/psets/PS2-Extra.pdf) |
-| 3 | February 3rd - February 6th | [PSet 3](/psets/PS3.pdf) ([*Solutions*](/psets/PS3-Soln.pdf)) | [A Small "Dilemma"](/psets/PS3-Extra.pdf) |
-| 4 | February 10th - February 13th | [PSet 4](/psets/PS4.pdf) ([*Solutions*](/psets/PS4-Soln.pdf)) | [Lipchitz Continuity](/psets/PS4-Extra.pdf) |
-| 5 | February 17th - February 20th | [PSet 5](/psets/PS5.pdf) ([*Solutions*](/psets/PS5-Soln.pdf)) | [Canonical Decomposition](/psets/PS5-Extra.pdf) |
-| 6 | February 24th - February 27th | [PSet 6](/psets/PS6.pdf) ([*Solutions*](/psets/PS6-Soln.pdf)) | [Introduction to $$L^2([0,2\pi])$$ Space](/psets/PS6-Extra.pdf) <br> [Midterm 1 Resources](/SP26/psets.html#midterm-1) |
-| 7 | March 3rd - March 6th | [PSet 7](/psets/PS7.pdf) ([*Solutions*](/psets/PS7-Soln.pdf)) | [Deeper Topics in $$L^2([0,2\pi])$$ Space](/psets/PS7-Extra.pdf) |
+| 1 | January 20th - January 23rd | [PSet 1]({{ site.baseurl }}/psets/PS1.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS1-Soln.pdf)) | [Brief Review on Series]({{ site.baseurl }}/psets/PS1-Extra.pdf) |
+| 2 | January 27th - January 30th | [PSet 2]({{ site.baseurl }}/psets/PS2.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS2-Soln.pdf)) | [Differential Forms]({{ site.baseurl }}/psets/PS2-Extra.pdf) |
+| 3 | February 3rd - February 6th | [PSet 3]({{ site.baseurl }}/psets/PS3.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS3-Soln.pdf)) | [A Small "Dilemma"]({{ site.baseurl }}/psets/PS3-Extra.pdf) |
+| 4 | February 10th - February 13th | [PSet 4]({{ site.baseurl }}/psets/PS4.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS4-Soln.pdf)) | [Lipchitz Continuity]({{ site.baseurl }}/psets/PS4-Extra.pdf) |
+| 5 | February 17th - February 20th | [PSet 5]({{ site.baseurl }}/psets/PS5.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS5-Soln.pdf)) | [Canonical Decomposition]({{ site.baseurl }}/psets/PS5-Extra.pdf) |
+| 6 | February 24th - February 27th | [PSet 6]({{ site.baseurl }}/psets/PS6.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS6-Soln.pdf)) | [Introduction to $$L^2([0,2\pi])$$ Space]({{ site.baseurl }}/psets/PS6-Extra.pdf) <br> [Midterm 1 Resources]({{ site.baseurl }}/psets.html#midterm-1) |
+| 7 | March 3rd - March 6th | [PSet 7]({{ site.baseurl }}/psets/PS7.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS7-Soln.pdf)) | [Deeper Topics in $$L^2([0,2\pi])$$ Space]({{ site.baseurl }}/psets/PS7-Extra.pdf) |
+| 8 | March 10th - March 13th | [PSet 8]({{ site.baseurl }}/psets/PS8.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS8-Soln.pdf)) | [Quotient Space]({{ site.baseurl }}/psets/PS8-Extra.pdf) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 
@@ -45,6 +46,6 @@ For the in-class assessments, we will prepare corresponding review resources.
 
 | Assessment Number | Assessment Date | Practices | Review Session |
 |:-----------------:|:---------------:|:---------:|:--------------:|
-| <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1](/psets/MT-1.pdf) ([*Solution*](/psets/MT-1-Soln.pdf)) <br> [Review Slides](/psets/Midterm-1-Slides.pdf) | March 1 @ 12pm <br> <a onclick="alert(`<img src='/SP26/assets/map/latrobe.png' style='max-width: 85%'><br>Latrobe 120 is located at the star location (F3).`)"><u>Latrobe 120</u></a> |
+| <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1]({{ site.baseurl }}/psets/MT-1.pdf) ([*Solution*]({{ site.baseurl }}/psets/MT-1-Soln.pdf)) <br> [Review Slides]({{ site.baseurl }}/psets/Midterm-1-Slides.pdf) | March 1 @ 12pm <br> <a onclick="alert(`<img src='{{ site.baseurl }}/assets/map/latrobe.png' style='max-width: 85%'><br>Latrobe 120 is located at the star location (F3).`)"><u>Latrobe 120</u></a> |
 | <span id="midterm-2">Midterm 2</span> | April 15 |  |  |
 | <span id="final">Final Exam</span> | May 8 |  |  |

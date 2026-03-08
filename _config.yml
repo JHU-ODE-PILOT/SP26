@@ -1,0 +1,13 @@
+# Jekyll configuration for SP26 GitHub Pages
+# Matches GitHub Pages deployment: jhu-ode-pilot.github.io/SP26
+# Change baseurl to deploy to a different path (e.g. "/SP27" for next term)
+
+title: "PILOT Learning for Differential Equations"
+baseurl: "/SP26"
+url: "https://jhu-ode-pilot.github.io"
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
