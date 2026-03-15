@@ -35,6 +35,7 @@ Here are the problem sets for each week of PILOT learning.
 | 7 | March 3rd - March 6th | [PSet 7]({{ site.baseurl }}/psets/PS7.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS7-Soln.pdf)) | [Deeper Topics in $$L^2([0,2\pi])$$ Space]({{ site.baseurl }}/psets/PS7-Extra.pdf) |
 | 8 | March 10th - March 13th | [PSet 8]({{ site.baseurl }}/psets/PS8.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS8-Soln.pdf)) | [Quotient Space]({{ site.baseurl }}/psets/PS8-Extra.pdf) |
 | 🌸 | March 17th - March 20th | **No Sessions this week.** <br> *Have a nice spring break!* | [Preview on Linear Algebra]({{ site.baseurl }}/psets/SB-Extra-1.pdf) <br> [Matrix Exponential]({{ site.baseurl }}/psets/SB-Extra-2.pdf) |
+| 9 | March 24th - March 27th | [PSet 9]({{ site.baseurl }}/psets/PS9.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS9-Soln.pdf)) | [Polynomial Basis]({{ site.baseurl }}/psets/PS9-Extra.pdf) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 
