@@ -37,6 +37,7 @@ Here are the problem sets for each week of PILOT learning.
 | 🌸 | March 17th - March 20th | **No Sessions this week.** <br> *Have a nice spring break!* | [Preview on Linear Algebra]({{ site.baseurl }}/psets/SB-Extra-1.pdf) <br> [Matrix Exponential]({{ site.baseurl }}/psets/SB-Extra-2.pdf) |
 | 9 | March 24th - March 27th | [PSet 9]({{ site.baseurl }}/psets/PS9.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS9-Soln.pdf)) | [Polynomial Basis]({{ site.baseurl }}/psets/PS9-Extra.pdf) |
 | 10 | March 31st - April 3rd | [PSet 10]({{ site.baseurl }}/psets/PS10.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS10-Soln.pdf)) | [Conceptual Eigenspace]({{ site.baseurl }}/psets/PS10-Extra.pdf) |
+| 11 | March 31st - April 3rd | [PSet 11]({{ site.baseurl }}/psets/PS10.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS11-Soln.pdf)) | [A Putnam Problem]({{ site.baseurl }}/psets/PS11-Extra.pdf) <br> [Midterm 2 Resources]({{ site.baseurl }}/psets.html#midterm-2) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 
@@ -50,5 +51,5 @@ For the in-class assessments, we will prepare corresponding review resources.
 | Assessment Number | Assessment Date | Practices | Review Session |
 |:-----------------:|:---------------:|:---------:|:--------------:|
 | <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1]({{ site.baseurl }}/psets/MT-1.pdf) ([*Solution*]({{ site.baseurl }}/psets/MT-1-Soln.pdf)) <br> [Review Slides]({{ site.baseurl }}/psets/Midterm-1-Slides.pdf) | March 1 @ 12pm <br> <a onclick="alert(`<img src='{{ site.baseurl }}/assets/map/latrobe.png' style='max-width: 85%'><br>Latrobe 120 is located at the star location (F3).`)"><u>Latrobe 120</u></a> |
-| <span id="midterm-2">Midterm 2</span> | April 15 |  |  |
+| <span id="midterm-2">Midterm 2</span> | April 15 | [Review Set 2]({{ site.baseurl }}/psets/MT-2.pdf) | April 12 @ 12pm <br> location TBA |
 | <span id="final">Final Exam</span> | May 8 |  |  |
