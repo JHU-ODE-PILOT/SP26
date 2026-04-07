@@ -51,7 +51,7 @@ title: "Home"
 
 ## 📢 Announcements
 
-- **4/4/2025.** [Midterm 2 review information]({{ site.url }}{{ site.baseurl }}/psets.html#midterm-2) are released.
+- **4/7/2025.** [Midterm 2 review information]({{ site.url }}{{ site.baseurl }}/psets.html#midterm-2) are up to date.
 - **2/24/2025.** [Midterm 1 review information]({{ site.url }}{{ site.baseurl }}/psets.html#midterm-1) are up to date.
 - **1/19/2026.** Welcome to PILOT learning for Differential Equations.
 
