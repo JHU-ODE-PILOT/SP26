@@ -38,6 +38,7 @@ Here are the problem sets for each week of PILOT learning.
 | 9 | March 24th - March 27th | [PSet 9]({{ site.baseurl }}/psets/PS9.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS9-Soln.pdf)) | [Polynomial Basis]({{ site.baseurl }}/psets/PS9-Extra.pdf) |
 | 10 | March 31st - April 3rd | [PSet 10]({{ site.baseurl }}/psets/PS10.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS10-Soln.pdf)) | [Conceptual Eigenspace]({{ site.baseurl }}/psets/PS10-Extra.pdf) |
 | 11 | April 7th - April 10th | [PSet 11]({{ site.baseurl }}/psets/PS11.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS11-Soln.pdf)) | [A Putnam Problem]({{ site.baseurl }}/psets/PS11-Extra.pdf) <br> [Midterm 2 Resources]({{ site.baseurl }}/psets.html#midterm-2) |
+| 12 | April 14th - April 17th | [PSet 12]({{ site.baseurl }}/psets/PS12.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS12-Soln.pdf)) | [Algebraic and Geometric Multiplicity]({{ site.baseurl }}/psets/PS12-Extra.pdf) |
 
 <!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
 
