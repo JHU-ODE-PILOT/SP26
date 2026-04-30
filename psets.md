@@ -41,8 +41,6 @@ Here are the problem sets for each week of PILOT learning.
 | 12 | April 14th - April 17th | [PSet 12]({{ site.baseurl }}/psets/PS12.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS12-Soln.pdf)) | [Algebraic and Geometric Multiplicity]({{ site.baseurl }}/psets/PS12-Extra.pdf) |
 | 13 | April 21st - April 24th | [PSet 13]({{ site.baseurl }}/psets/PS13.pdf) ([*Solutions*]({{ site.baseurl }}/psets/PS13-Soln.pdf)) | [Nonlinear Systems]({{ site.baseurl }}/psets/PS13-Extra.pdf) |
 
-<!-- - [Unlock all solutions](/unlock.html): Use this link to enter a specific password in order to unlock all problem set solutions. -->
-
 ## 📑 Review Information
 
 For the in-class assessments, we will prepare corresponding review resources.
@@ -54,4 +52,4 @@ For the in-class assessments, we will prepare corresponding review resources.
 |:-----------------:|:---------------:|:---------:|:--------------:|
 | <span id="midterm-1">Midterm 1</span> | March 4 | [Review Set 1]({{ site.baseurl }}/psets/MT-1.pdf) ([*Solution*]({{ site.baseurl }}/psets/MT-1-Soln.pdf)) <br> [Review Slides]({{ site.baseurl }}/psets/Midterm-1-Slides.pdf) | March 1 @ 12pm <br> <a onclick="alert(`<img src='{{ site.baseurl }}/assets/map/latrobe.png' style='max-width: 85%'><br>Latrobe 120 is located at the star location (F3).`)"><u>Latrobe 120</u></a> |
 | <span id="midterm-2">Midterm 2</span> | April 15 | [Review Set 2]({{ site.baseurl }}/psets/MT-2.pdf) ([*Solution*]({{ site.baseurl }}/psets/MT-2-Soln.pdf)) <br> [Review Slides]({{ site.baseurl }}/psets/Midterm-2-Slides.pdf) | April 12 @ 12pm <br> <a onclick="alert(`<img src='{{ site.baseurl }}/assets/map/hodson.png' style='max-width: 85%'><br>Hodson 301 is located at the star location (F2).`)"><u>Hodson 301</u></a> |
-| <span id="final">Final Exam</span> | May 8 |  |  |
+| <span id="final">Final Exam</span> | May 8 | [Review Set 3]({{ site.baseurl }}/psets/Final.pdf) ([*Solution*]({{ site.baseurl }}/psets/Final-Soln.pdf)) <br> [Review Slides]({{ site.baseurl }}/psets/Final-Slides.pdf) | May 5 @ 6pm <br> <a onclick="alert(`<img src='{{ site.baseurl }}/assets/map/AMES.png' style='max-width: 85%'><br>Ames 234 is located at the star location (F3).`)"><u>Ames 234</u></a> |
